@@ -1,6 +1,6 @@
 # KaggleX Cohort 4: Title VII LLM - Civil Rights Law Assistant
-*Note: This is an ongoing project, so stay tuned for the completed version.
-see demo here: https://daab1c6f4f806f2bb6.gradio.live/
+*Note: Project complete, stay tuned for the write-up here.
+see demo here: 
 
 Data source: https://multilexsum.github.io/ 
 
